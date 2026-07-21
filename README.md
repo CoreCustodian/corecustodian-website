@@ -1,7 +1,7 @@
 # Core Custodian Website
 
 <p align="center">
-  <img src="logo.png" alt="Core Custodian" width="180">
+  <img src="https://corecustodian.org/wp-content/uploads/2024/06/Logo-2.webp" alt="Core Custodian" width="180">
 </p>
 
 <p align="center">
